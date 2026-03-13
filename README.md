@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+there+I'm+Saif+Mohammed+👋;Aspiring+SOC+Analyst;Cybersecurity+Enthusiast;AI+%26+OSINT+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Hi+I'm+Saif+Mohammed+👋;Aspiring+SOC+Analyst;Cybersecurity+Enthusiast;AI+%26+OSINT+Explorer" alt="Typing SVG" />
 </div>
 
 ---
@@ -58,7 +58,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaifmohammed2364)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/isaifmohammed)
 
 </div>
